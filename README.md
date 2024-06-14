@@ -19,29 +19,30 @@ To get started with **Play with Colors**, follow these steps:
 1. Clone this repository to your local machine:
 ```sh
    git clone https://github.com/adityasingh151/play-with-colors.git
-
+```
 2. Navigate into the project directory:
 ```sh
    cd play-with-colors
-
+```
 3. Install dependencies using npm or yarn:
 ```sh
    npm install
-
+```
 or 
 
 ```sh
    yarn install
+```
 
 4. Start the development server:
 ```sh
    npm start
-
+```
 or
 
 ```sh
    yarn start
-
+```
 
 5. Open your browser and go to `http://localhost:3000` to view the application.
 
